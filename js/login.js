@@ -1,7 +1,8 @@
 $(document).ready(function () {
     $(".btn").click(function () { 
 
-        $(".Cambio").html("buenos dias");
+        $(".Cambio").text("buenos dias");
+        console.log("Esto funciona");
 
     });   
 });
