@@ -6,6 +6,6 @@ $(document).ready(function () {
     });
     $(".btn-cambio").click(function (e) { 
         e.preventDefault();
-        location.href="pruebaRama.html"
+        location.href="pruebaconrama.html"
     });
 });
